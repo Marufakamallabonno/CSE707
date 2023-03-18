@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtu.be/vYSWvxoRHZU
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1DRE25Wdgeymgbl8f8B03zwP2Qm22pPl5b_TO6qqZAME/edit?usp=sharing
+https://docs.google.com/presentation/d/1brzO_icU14yMU_9fIaMFNiqRAjY0RRxZphLg4XNmES0/edit?usp=sharing
 
 Project title:
 Federated Learning for Potato Leaf Disease Detection using CNN
