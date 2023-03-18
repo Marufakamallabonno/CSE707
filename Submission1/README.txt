@@ -2,10 +2,10 @@ Overleaf
 https://www.overleaf.com/project/63fda04f922e8950d4eff65d
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/vYSWvxoRHZU
 
 Public link to the slide (Anyone on the internet can view without login):
-https://
+https://docs.google.com/presentation/d/1DRE25Wdgeymgbl8f8B03zwP2Qm22pPl5b_TO6qqZAME/edit?usp=sharing
 
 Project title:
 Federated Learning for Potato Leaf Disease Detection using CNN
