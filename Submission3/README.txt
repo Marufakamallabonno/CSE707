@@ -2,7 +2,7 @@ Submission 3: Book chapter presentation
 Chapter 2 - Background
 
 Link to unlisted youtube video: 
-
+https://youtu.be/fc2-zGQWX7M
 
 
 Two public link to the Concept Map (anyone on the internet can view without login): 
