@@ -11,7 +11,7 @@ Paper title:
 Federated Learning for Potato Leaf Disease Detection using CNN
 
 Paper presentation (anyone can view without login):
-https://github.com/rakib1521/CSE707/blob/main/Submission%206%20and%207/Federated%20Learning%20for%20Potato%20Leaf%20Disease%20Detection%20using%20CNN.pdf
+https://github.com/Marufakamallabonno/CSE707/blob/main/Submission6/Comparison%20of%20Machine%20Learning%20Models%20for%20Early%20Prediction%20of%20Diabetes%20with%20LIME%20Interpretability.pdf
 
 Paper submission date (to workshop/conference):
 28 February, 2023
