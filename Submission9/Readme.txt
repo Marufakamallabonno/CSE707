@@ -26,7 +26,8 @@ Submitted the Paper in IC3S2023 conference on 28/02/2023 and recieved acceptance
 did Something else:
 - Registered for ITEE and also attended a few classes but could not attend exam as I was out of town
 - Completed few vidos from https://researcheracademy.elsevier.com using BRACU open athens account(certificated added in the folder)
- 
+- Joined training session from bracu library 
+
 
 Completed Carpentries Courses 
 HPC: https://carpentries-incubator.github.io/hpc-intro/aio/index.html
