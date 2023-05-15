@@ -12,8 +12,8 @@ Federated Learning for Potato Leaf Disease Detection using CNN
 [https://github.com/ShrutiChk/CSE707/blob/main/submission4/Federated%20Learning%20for%20Potato%20Leaf%20Disease%20Detection%20using%20CNN.pdf](https://github.com/Marufakamallabonno/CSE707/blob/main/Submission4/Federated_Learning_for_Potato_Leaf_Disease_Detection_using_CNN.pdf)
 
 ### Recent Conference(dicta2023) 
-dicta2023
-Conference submitted paper / paper submission / login Link:
+
+***Conference submitted paper / paper submission / login Link***:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2Fdicta2023
 
 ***Paper submission date (to workshop/conference)***:
@@ -24,7 +24,6 @@ https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2Fdicta2023
 
 ***Conference Name***:
 Digital Image Computing: Techniques and Applications (DICTA)
-
 
 ***Conference URL:***
 https://www.dictaconference.org/
