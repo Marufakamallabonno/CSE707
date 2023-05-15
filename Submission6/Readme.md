@@ -28,7 +28,7 @@ Digital Image Computing: Techniques and Applications (DICTA)
 - ***Conference URL:***
 https://www.dictaconference.org/
 
-### Previous Submitted Conference(IC3S2023) 
+### Previous Submitted Conference(IC3S2023) [Accepted]
 
 - ***Conference submitted paper / paper submission / login Link***:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIC3S2023
