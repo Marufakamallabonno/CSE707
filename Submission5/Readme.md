@@ -1,15 +1,15 @@
 
 ***Overleaf link with edit access***:
-https://www.overleaf.com/project/63fda04f922e8950d4eff65d
+[https://www.overleaf.com/project/63fda04f922e8950d4eff65d](https://www.overleaf.com/project/63fda04f922e8950d4eff65d)
 
 ***Unlisted YouTube video***:
-https://youtu.be/xWHkb5-pImM
+https://youtu.be/ZvSfVV56G7g
 
 ***Paper title***:
 Federated Learning for Potato Leaf Disease Detection using CNN
 
 ***Paper presentation (anyone can view without login)***:
-[https://github.com/ShrutiChk/CSE707/blob/main/submission4/Federated%20Learning%20for%20Potato%20Leaf%20Disease%20Detection%20using%20CNN.pdf](https://github.com/Marufakamallabonno/CSE707/blob/main/Submission4/Federated_Learning_for_Potato_Leaf_Disease_Detection_using_CNN.pdf)
+https://docs.google.com/presentation/d/1ITecNYi3m-L31w0R5OVKxOSaIE79EXvzpqgHdTSz6JU/edit?usp=sharing
 
 ### Recent Conference(dicta2023) 
 
