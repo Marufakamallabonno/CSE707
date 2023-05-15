@@ -19,37 +19,37 @@ https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2Fdicta2023
 - ***Paper submission date (to workshop/conference)***:
 15 May, 2023
 
-***Paper submission ID: (received) from conference/workshop***
+- ***Paper submission ID: (received) from conference/workshop***
 02
 
-***Conference Name***:
+- ***Conference Name***:
 Digital Image Computing: Techniques and Applications (DICTA)
 
-***Conference URL:***
+- ***Conference URL:***
 https://www.dictaconference.org/
 
 ### Previous Submitted Conference(IC3S2023) 
 
-***Conference submitted paper / paper submission / login Link***:
+- ***Conference submitted paper / paper submission / login Link***:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIC3S2023
 
-***Paper submission date (to workshop/conference)***:
+- ***Paper submission date (to workshop/conference)***:
 28 February, 2023
 
-***Paper submission ID: (received) from conference/workshop***
+- ***Paper submission ID: (received) from conference/workshop***
 111
 
-***Conference Name***:
+- ***Conference Name***:
 4th International Conference on Communication, Circuits, and Systems
 
-***Conference URL***:
+- ***Conference URL***:
 https://ic3s.kiit.ac.in/
 
 
-Group Number:
+**Group Number**:
 09
 
-Group Member: 
+**Group Member**: 
 
 22366030  Rakib Hossain Rifat
 
