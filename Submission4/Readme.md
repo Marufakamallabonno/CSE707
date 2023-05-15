@@ -13,7 +13,7 @@ Federated Learning for Potato Leaf Disease Detection using CNN
 
 ### Recent Conference(dicta2023) 
 
-***Conference submitted paper / paper submission / login Link***:
+- ***Conference submitted paper / paper submission / login Link***:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2Fdicta2023
 
 - ***Paper submission date (to workshop/conference)***:
