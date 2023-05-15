@@ -14,7 +14,7 @@ Paper presentation (anyone can view without login):
 https://github.com/ShrutiChk/CSE707/blob/main/submission4/Federated%20Learning%20for%20Potato%20Leaf%20Disease%20Detection%20using%20CNN.pdf
 
 
-### Previous Submitted Conference 
+###Previous Submitted Conference 
 
 Paper submission date (to workshop/conference):
 28 February, 2023
